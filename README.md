@@ -9,11 +9,11 @@ Este es un proyecto de gestión de empleados desarrollado con Laravel, utilizand
 ## Requisitos del Sistema
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
-PHP >= PHP 8.2.4 
-Composer
-Node.js >= v18.16.1
-MySQL o cualquier otro sistema de gestión de bases de datos compatible
-Git
+- PHP >= PHP 8.2.4 
+- Composer
+- Node.js >= v18.16.1
+- MySQL o cualquier otro sistema de gestión de bases de datos compatible
+- Git
 
 ## Uso
 El proyecto ofrece las siguientes características:
